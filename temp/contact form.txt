@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" type="text/css" href="contact.css"/>
+
+<link rel="homepage" type="text/html" href="home.html"/>
+
+<link rel="faq" type="text/contact" href="faq.html"/>
+</head>
+<body>
+<header>
+    <div  style="background-color:black; height:200px;"  class="navbarContainer">
+      <ul class="navbar">
+        <li class="l1"><a href="Home.html">HOME</a></li>
+        <li class="l1"><a href="Men.html">MEN</a></li>
+      </ul>
+    </div>
+</header>
